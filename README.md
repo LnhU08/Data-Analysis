@@ -36,8 +36,6 @@ The cleaned dataset is saved as `cleaned_dataset.csv`.
 
 ## 📈 Dashboard Metrics (in Excel)
 
-You can use the cleaned dataset to build a visual dashboard using Excel with the following insights:
-
 - 📌 Total Courses, Total Subscribers, Average Course Duration
 - 📚 Course distribution by **subject** and **level**
 - 💵 Revenue potential analysis (Paid vs Free)
