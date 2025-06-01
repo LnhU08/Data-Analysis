@@ -49,7 +49,3 @@ You can use the cleaned dataset to build a visual dashboard using Excel with the
 - **Python (Pandas)** for data cleaning
 - **Excel** for visualization and dashboard creation
 
-## 📂 Files
-
-- `dataset.csv`: Original raw dataset
-- `cleaned_dataset.csv`: Cleaned and ready-to-analyze dataset
