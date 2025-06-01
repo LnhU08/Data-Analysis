@@ -34,7 +34,7 @@ The following transformations were applied to the original dataset:
 
 The cleaned dataset is saved as `cleaned_dataset.csv`.
 
-## 📈 Suggested Dashboard Metrics (in Excel)
+## 📈 Dashboard Metrics (in Excel)
 
 You can use the cleaned dataset to build a visual dashboard using Excel with the following insights:
 
